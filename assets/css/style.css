@@ -32,9 +32,16 @@ header{
 .text-hero{
   position: absolute;
   bottom: 0px;
+  right: 0px;
 }
 .hr-hero{
   border: 1px solid #ffffff;
   width: 20%;
-
+}
+p{
+  line-height: 3em;
+}
+.hr-secciones{
+  border: 1px solid #373A3C;
+  width: 10%;
 }
