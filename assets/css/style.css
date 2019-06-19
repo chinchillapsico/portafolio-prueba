@@ -30,7 +30,9 @@ header{
 }
 
 .text-hero{
+  margin-bottom: -2em;
   position: absolute;
+  font-size: 3em !important;
   bottom: 0px;
   right: 0px;
 }
