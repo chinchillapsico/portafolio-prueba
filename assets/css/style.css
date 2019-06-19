@@ -6,7 +6,35 @@ body {
 .morado{
   background-color: #660066;
 }
-.oswald{
+.oswald-bold{
   font-family: 'Oswald', sans-serif;
   font-weight: 700;
+}
+.oswald-light{
+  font-family: 'Oswald', sans-serif;
+  font-weight: 200;
+}
+
+
+.hero {
+  background-image: url('../img/bg_hero.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+  min-height: 500px;
+}
+
+header{
+  padding-top: 1em;
+}
+
+.text-hero{
+  position: absolute;
+  bottom: 0px;
+}
+.hr-hero{
+  border: 1px solid #ffffff;
+  width: 20%;
+
 }
