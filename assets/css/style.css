@@ -47,3 +47,11 @@ p{
   border: 1px solid #373A3C;
   width: 10%;
 }
+.hr-secciones-white{
+  border: 1px solid #ffffff;
+  width: 10%;
+}
+
+.card-text{
+  line-height: 2em;
+}
